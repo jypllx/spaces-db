@@ -1,3 +1,3 @@
 \i producers.sql
-\i feeds.sql
-\i podcasts.sql
+\i channels.sql
+\i items.sql
