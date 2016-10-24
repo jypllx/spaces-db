@@ -13,5 +13,6 @@ for i in range(1, 5001):
     conn.commit()
     print('inserted %s' % i)
 
+
 cur.close()
 conn.close()
